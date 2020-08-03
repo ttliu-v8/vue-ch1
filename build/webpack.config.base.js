@@ -1,5 +1,4 @@
 const path = require('path')
-const isDev = process.env.NODE_ENV === 'development'
 const VueLoaderPlugin = require('vue-loader/lib/plugin')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 
